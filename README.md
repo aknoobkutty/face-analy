@@ -2,7 +2,7 @@
 
 A high-performance, browser-based AI tool designed to detect and categorize human emotions in real-time. Built using **Python**, **DeepFace**, and **Streamlit**, this project features a stabilized HUD and dynamic color-coded feedback.
 
-**🚀 [Live Demo: Face Expression Analyzer](https://face-expression-analyzer.streamlit.app/)**
+**🚀 [Live Demo: Face Expression Analyzer](https://face-analy-mm6jz56shrvsbese7rdatn.streamlit.app/)**
 
 ---
 
