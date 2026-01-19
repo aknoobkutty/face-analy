@@ -8,7 +8,7 @@ import av
 # --- UI STYLING ---
 st.set_page_config(page_title="Rishav's Expression Analyzer", layout="wide")
 st.markdown("<h1 style='text-align:center; color:#00f2ff;'>⚡ EXPRESSION ANALYSIS</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center; color:#888;'>STABILIZED HUD | DEV: RISHAV</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; color:#888;'>STABILIZED HUD | DEV: Akash Kanna</p>", unsafe_allow_html=True)
 
 COLOR_MAP = {
     "happy": (0, 255, 0), "sad": (255, 0, 0), "angry": (0, 0, 255),
